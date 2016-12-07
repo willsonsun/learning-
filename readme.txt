@@ -1,2 +1,3 @@
 git is a version control system
-git is free app
+learn git is a good time
+thank the god
